@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+### Reg No: 212223240179
+### Name: Vikaash K S
+### Date: 18.09.2025
 
 
 # AIM:
